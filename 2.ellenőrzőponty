@@ -3,38 +3,38 @@
     <tbody><tr><td colspan="2">Tükrözésem</td></tr>
     <tr><th>
         <table class="kp">
-            <tbody><tr><td class="o" colspan="3">Keypad 1</td></tr>
-            <tr><td>1</td>
-                <td>2</td>
-                <td>3</td>
+            <tbody><tr><td class="o" colspan="3">Eredeti</td></tr>
+            <tr><td>A</td>
+                <td>B</td>
+                <td>C</td>
             </tr>
-            <tr><td>4</td>
-                <td>5</td>
-                <td>6</td>
+            <tr><td>D</td>
+                <td>E</td>
+                <td>F</td>
             </tr>
-            <tr><td>7</td>
-                <td>8</td>
-                <td>9</td>
+            <tr><td>G</td>
+                <td>H</td>
+                <td>I</td>
             </tr>
-            <tr><td class="o" colspan="2">C</td><td>0</td></tr>
+            <tr><td class="o" colspan="2">ENTER</td><td>J</td></tr>
         </tbody></table>
     </th>
     <th>
         <table class="kp">
-            <tbody><tr><td class="o" colspan="3">Keypad 2</td></tr>
-            <tr><td>3</td>
-                <td>2</td>
-                <td>1</td>
+            <tbody><tr><td class="o" colspan="3">Az eredeti tükörképe</td></tr>
+            <tr><td>C</td>
+                <td>B</td>
+                <td>A</td>
             </tr>
-            <tr><td>6</td>
-                <td>5</td>
-                <td>4</td>
+            <tr><td>F</td>
+                <td>E</td>
+                <td>D</td>
             </tr>
-            <tr><td>9</td>
-                <td>8</td>
-                <td>7</td>
+            <tr><td>I</td>
+                <td>H</td>
+                <td>G</td>
             </tr>
-            <tr><td>0</td><td class="o" colspan="2">C</td></tr>
+            <tr><td>J</td><td class="o" colspan="2">ENTER</td></tr>
         </tbody></table>
     </th>
 </tr></tbody></table>
@@ -42,11 +42,11 @@
 <style>
     @import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
     table {
-        border-spacing: 14px;
+        border-spacing: 20px;
     }
     table.kp {
-        border: dotted 7px rgb(28, 99, 125);
-        border-radius: 10px;
+        border: dotted 8px rgb(28, 99, 125);
+        border-radius: 12px;
     }
     td {
         font-family: 'Lobster', cursive;
